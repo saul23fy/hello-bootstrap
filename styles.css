@@ -1,0 +1,16 @@
+.container{
+    background: lightgoldenrodyellow;
+    margin-bottom: 50px;
+}
+
+.container-fluid{
+    background: purple;
+}
+
+.col-12{
+    border: 1px solid black;
+}
+
+.progress{
+    margin-bottom: 20px;
+}
